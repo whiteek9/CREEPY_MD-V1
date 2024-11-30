@@ -1,12 +1,4 @@
 > Fork The repo and inside the settings.js put your name there as the owner Deploy and enjoy using CREEPY_MD-V1.
-
-<a><img src='https://files.catbox.moe/f6j3fl.jpeg'/></a>
-<p align="center">
- 
-### TUTORIAL FOR DEPLOYMENT 
-
- <a href="https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1" /><br>
-  
 <p align="center">
 <a href="https://github.com/DannyTech20/CREEPY_MD-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DannyTech20/CREEPY_MD-V1?color=blue&style=flat-square"></a>
 <a href="https://github.com/DannyTech20/CREEPY_MD-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DannyTech20/CREEPY_MD-V1?color=red&style=flat-square"></a>
@@ -21,6 +13,14 @@
   <a aria-label="Join our chats" href="https://t.me/creepytech" target="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+<a><img src='https://files.catbox.moe/f6j3fl.jpeg'/></a>
+<p align="center">
+ 
+### TUTORIAL FOR DEPLOYMENT 
+
+ <a href="https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1" /><br>
+  
+
 
 ### TUTORIAL TO HOST IN PANEL
 <a href="https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1" /><br>
