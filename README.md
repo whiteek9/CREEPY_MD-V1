@@ -40,7 +40,7 @@ Fork the Repo
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 
-<p align="center">#Tutorials <br>
+### TUTORIAL TO HOST IN PANEL
  <a href="https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1" /><br>
   
 
