@@ -35,7 +35,7 @@ Fork the Repo
 
 
 ## 2.Download file here
-<a href='https://github.com/DannyTech20/CREEPY_MD-V1/downloadZIP' target="_blank"><img alt='Download file' src='https://img.shields.io/badge/Download-zip?style=for-the-badge&logo=git&logoColor=grey'/></a>
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge)](https://github.com/DannyTech20/CREEPY_MD-V1/archive/refs/heads/main.zip)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
