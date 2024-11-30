@@ -17,7 +17,6 @@
 </p>
 <p align='center'>
 </p>
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
 
   <a aria-label="Join our chats" href="https://t.me/creepytech" target="_blank">
@@ -25,8 +24,10 @@
   </a>
 <a><img src='https://files.catbox.moe/f6j3fl.jpeg'/></a>
 <p align="center">
- 
-### TUTORIAL FOR DEPLOYMENT 
+</h1> 
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 
  <a href="https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1" /><br>
   
