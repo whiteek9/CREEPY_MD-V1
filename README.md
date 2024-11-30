@@ -1,5 +1,15 @@
-       𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 𝒟𝒶𝓃𝓃𝓎
+ <p align="center">𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+𝓒𝓡𝓔𝓔𝓟𝓨+𝓜𝓓+𝓥𝟏; 𝓬𝓻𝓮𝓪𝓽𝓮𝓭+𝓫𝔂+𝒟𝒶𝓃𝓃𝓎;Fork+Me+Please" alt="Typing SVG" /></a>
+ </p>
+<p align="center">
+  <p align="center">
+<a href="https://github.com/DannyTech20?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/DannyTech20?label=Followers&style=social"></a>
+</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{DannyTech20}/count.svg" alt="CREEPY_MD-V1 :: Visitor's Count"/></p>
 <a href="https://github.com/DannyTech20/CREEPY_MD-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DannyTech20/CREEPY_MD-V1?color=blue&style=flat-square"></a>
 <a href="https://github.com/DannyTech20/CREEPY_MD-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DannyTech20/CREEPY_MD-V1?color=red&style=flat-square"></a>
 <a href="https://github.com/DannyTech20/CREEPY_MD-V1/"><img title="Size" src="https://img.shields.io/github/repo-size/DannyTech20/CREEPY_MD-V1?style=flat-square&color=green"></a>
