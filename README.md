@@ -76,12 +76,16 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Tutorial" />
 </a>
 
-<h2 align="center">📋 Deployment Sites</h2>
 ---
+<h2 align="center">📋 Deployment websites</h2>
+
 ### main site bot hosting
 <a href="https://bot-hosting.net/?aff=1297254811795722383" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 </a>
+
+---
+
 ### Deploy in Replit  
 <a href="https://repl.it/github.com/DannyTech20/CREEPY_MD-V1" target="_blank">
   <img src="https://img.shields.io/badge/Replit-orange?style=for-the-badge&logo=replit" alt="Deploy in Replit" />
