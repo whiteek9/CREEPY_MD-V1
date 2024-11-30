@@ -8,7 +8,6 @@
 <p align="center">
   <p align="center">
 <a href="https://github.com/DannyTech20?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/DannyTech20?label=Followers&style=social"></a>
-</p>
 <p align="center"><img src="https://profile-counter.glitch.me/{DannyTech20}/count.svg" alt="CREEPY_MD-V1 :: Visitor's Count"/></p>
 <a href="https://github.com/DannyTech20/CREEPY_MD-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DannyTech20/CREEPY_MD-V1?color=blue&style=flat-square"></a>
 <a href="https://github.com/DannyTech20/CREEPY_MD-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DannyTech20/CREEPY_MD-V1?color=red&style=flat-square"></a>
@@ -27,6 +26,17 @@
 </h1> 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
+Fork the Repo
+
+
+<a href='https://github.com/DannyTech20/CREEPY_MD-V1/fork' target="_blank"><img alt='𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=grey'/></a>
+
+
+## 2.Download file here
+Download zip file
+<a href='https://github.com/DannyTech20/CREEPY_MD-V1//code/downloadzip' target="_blank"><img alt='Download file' src='https://img.shields.io/badge/Download-zip?style=for-the-badge&logo=git&logoColor=grey'/></a>
 
 
  <a href="https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1" /><br>
