@@ -44,11 +44,7 @@ Fork the Repo
  <a href="https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1" /><br>
   
 
-
-### TUTORIAL TO HOST IN PANEL
-<a href="https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1" /><br>
-
-### BOT HOSTING PANEL LINK
+### BOT HOSTING FREE PANEL LINK
 <a href='https://bot-hosting.net/?aff=1297254811795722383' target="_blank"><img alt='Panel Link'
 src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
 
