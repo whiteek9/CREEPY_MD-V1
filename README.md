@@ -5,10 +5,7 @@
  
 ### TUTORIAL FOR DEPLOYMENT 
 
- 
-<p align="center">
-<a href="https://github.com/DannyTech20"><img title="Author" src="https://i.ibb.co/jHynY57/11993dc55c32a21a249ef1721fb66af4.jpg?style=for-the-badge&logo=github"></a>
-<p>
+ <a href="https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1" /><br>
   
 <p align="center">
 <a href="https://github.com/DannyTech20/CREEPY_MD-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DannyTech20/CREEPY_MD-V1?color=blue&style=flat-square"></a>
