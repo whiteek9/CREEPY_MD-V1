@@ -66,8 +66,7 @@
 </p>
 
 
-### Generate Your Session ID
-
+### Get Your Session ID
 <p align="center">
   <a href="https://creepy-session.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Get%20Session-ID-blue?style=for-the-badge&logo=key" alt="Get Session ID" />
